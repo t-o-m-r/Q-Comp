@@ -41,7 +41,7 @@ $$
 
 ## Methodology uses [3]
 
-## Referances
+## References
 [1] Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
 [2] Department of Physics, Durham University. (2025). PHYS3561 Computing Project Booklet 2025/26, pp. 21–29.
 [3] Suzuki, M. (1990). Fractal decomposition of exponential operators with applications to many-body theories and Monte Carlo simulations. Physics Letters A, 146(6–7), 319–323.
